@@ -229,7 +229,6 @@
 * [The space race to the Moon | Science Museum ](https://www.sciencemuseum.org.uk/objects-and-stories/space-race-moon)
 * [Standardising time: Railways and the electric telegraph | Science Museum ](https://www.sciencemuseum.org.uk/objects-and-stories/standardising-time-railways-and-electric-telegraph)
 * [Surgery | Science Museum ](https://www.sciencemuseum.org.uk/objects-and-stories/surgery)
-* [Teaser test | Science Museum ](https://www.sciencemuseum.org.uk/objects-and-stories/teaser-test)
 * [Technicians: Stories from behind the scenes | Science Museum ](https://www.sciencemuseum.org.uk/objects-and-stories/technicians-stories-behind-scenes)
 * [The technology it took to get to the Moon | Science Museum ](https://www.sciencemuseum.org.uk/objects-and-stories/technology-it-took-get-moon)
 * [The telephone and how it changed us | Science Museum ](https://www.sciencemuseum.org.uk/objects-and-stories/telephone-and-how-it-changed-us)
